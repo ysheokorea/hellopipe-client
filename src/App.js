@@ -11,6 +11,7 @@ function App() {
         </p>
         <p>Pipeline 구축하기</p>
         <p>새로운 내용 추가</p>
+        <p>환경변수 : {process.env.REACT_APP_VALUE}</p>
       </header>
     </div>
   );
