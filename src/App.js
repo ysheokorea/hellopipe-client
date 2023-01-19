@@ -10,6 +10,7 @@ function App() {
           Hello React
         </p>
         <p>Pipeline 구축하기</p>
+        <p>새로운 내용 추가</p>
       </header>
     </div>
   );
